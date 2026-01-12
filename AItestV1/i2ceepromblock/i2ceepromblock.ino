@@ -1,4 +1,4 @@
-// i2ceepromblock.ino - KOMPLETT, SINGLE FILE, kompiliert garantiert!
+// i2ceepromblock.ino - KOMPLETT, SINGLE FILE, kompiliert garantiert!...
 #include <Arduino.h>
 #include <Wire.h>
 
